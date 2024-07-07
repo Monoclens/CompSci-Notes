@@ -11,11 +11,9 @@
             "id": "3f19d6a8ba4bd596",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "02 Notes/Input.md",
-                "mode": "source",
-                "source": false
+                "file": "03 Others/Introduction.to.Algorithms.4th.Leiserson.Stein.Rivest.Cormen.MIT.Press.9780262046305.EBooksWorld.ir.pdf"
               }
             }
           }
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 Notes/Input.md",
+                "file": "03 Others/Introduction.to.Algorithms.4th.Leiserson.Stein.Rivest.Cormen.MIT.Press.9780262046305.EBooksWorld.ir.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 Notes/Input.md",
+                "file": "03 Others/Introduction.to.Algorithms.4th.Leiserson.Stein.Rivest.Cormen.MIT.Press.9780262046305.EBooksWorld.ir.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 Notes/Input.md"
+                "file": "03 Others/Introduction.to.Algorithms.4th.Leiserson.Stein.Rivest.Cormen.MIT.Press.9780262046305.EBooksWorld.ir.pdf"
               }
             }
           }
@@ -147,8 +145,8 @@
   },
   "active": "3f19d6a8ba4bd596",
   "lastOpenFiles": [
-    "02 Notes/Algorithms.md",
     "02 Notes/Input.md",
+    "02 Notes/Algorithms.md",
     "01 Templates/Note Template.md",
     "02 Notes",
     "Welcome.md",
